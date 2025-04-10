@@ -9,7 +9,7 @@ function Header() {
         <img src="/likelion_logo.png" alt="SKKU Logo" className="logo" />
       </Link>
 
-      <h2>xeonsim의 강의 노트</h2>
+      <h2>류성주의 강의 노트</h2>
 
       <nav>
         <ul>
